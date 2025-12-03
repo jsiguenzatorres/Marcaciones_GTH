@@ -1,0 +1,7 @@
+{
+  "name": "BFA Asistencia Móvil Ver2",
+  "description": "Sistema de marcación de asistencia profesional con geolocalización, gestión de salidas y reportes, inspirado en la identidad corporativa de BFA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
